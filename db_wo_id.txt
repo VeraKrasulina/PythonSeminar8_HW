@@ -1,0 +1,3 @@
+first_name: Ирина, last_name: Краснова, group: 5Б
+first_name: Иван, last_name: Кочегаров, group: 11Г
+first_name: Варвара, last_name: Сыромятова, group: 2А
